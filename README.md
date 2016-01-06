@@ -11,6 +11,7 @@
 
 <Directory "/Library/WebServer/Documents">
 将 Options FollowSymLinks Multiviews 修改为 Options Indexes FollowSymLinks Multiviews
+
 查看是否有如下配置
 
 Options Indexes MultiViews FollowSymLinks
