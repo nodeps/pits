@@ -1,6 +1,8 @@
 # pits
 一些坑，留下印记
+
 启动Apache
+
 启动：sudo apachectl start
 
 停止：sudo apachectl stop
