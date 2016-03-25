@@ -1,5 +1,6 @@
 # pits
 一些坑，留下印记
+创建本地ssh：ssh-keygen -t rsa -C "*********.com"
 
 启动Apache
 
